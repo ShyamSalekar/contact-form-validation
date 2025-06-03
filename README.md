@@ -27,9 +27,9 @@ This project was created as part of my web development internship at **Elevate L
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Demo(https://shyamsalekar.github.io/contact-form-validation/)
 
-> You can deploy this on GitHub Pages and paste the link here.
+> Click on Live Demo to see live webpage.
 
 ---
 
